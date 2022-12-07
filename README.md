@@ -1,3 +1,3 @@
 # 2D-vs-3D-conv
 
-## Comparison between 2D and 2D U-Net
+## Comparison between 2D and 3D U-Net
